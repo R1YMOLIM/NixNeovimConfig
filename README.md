@@ -24,7 +24,8 @@ Welcome to my personal Neovim configuration! 🎉 This setup is designed for:
 - [`nvim-telescope/telescope.nvim`](https://github.com/nvim-telescope/telescope.nvim) – Fuzzy finder for files, recent files, and more.
 - [`nvim-neo-tree/neo-tree.nvim`](https://github.com/nvim-neo-tree/neo-tree.nvim) – Modern file explorer.
 - [`nvimdev/dashboard-nvim`](https://github.com/nvimdev/dashboard-nvim) – A customizable start screen.
-
+- And more!
+  
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/d396bf86-8e39-44a0-b3ac-78bc6233704f)
 ![image](https://github.com/user-attachments/assets/e4168675-4ab3-4657-a3fb-ab1f492b8aa3)
