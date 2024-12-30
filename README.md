@@ -32,4 +32,4 @@ Welcome to my personal Neovim configuration! 🎉 This setup is designed for:
 ## 🚀 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/R1YMOLIM/NixNeovimConfig.git ~/.config/nvim
+   git clone https://github.com/R1YMOLIM/NixNeovimConfig.git ~/.config/neovim-nixos
