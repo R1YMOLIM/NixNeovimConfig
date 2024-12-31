@@ -1,6 +1,6 @@
 
 local function default_header()
-    if vim.fn.executable('nixos-version') then
+    if vim.fn.executable('/etc/nixos/configuration.nix') then
       return {
       "          ::::.    ':::::     ::::'          ",
       "          ':::::    ':::::.  ::::'           ",
