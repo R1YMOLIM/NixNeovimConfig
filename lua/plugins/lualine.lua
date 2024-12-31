@@ -44,6 +44,7 @@ return {
         lualine_a = {{'mode', separator = {left = ''}, right_padding = 2}},
         lualine_b = {
             'filename', 'branch',
+            'diff', 'diagnostics',
              --require("lsp-progress").progress,  
         },
         lualine_c = {{'fileformat',
