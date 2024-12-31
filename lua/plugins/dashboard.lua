@@ -1,6 +1,5 @@
 
 local function default_header()
-    if vim.fn.executable('/etc/nixos/configuration.nix') then
       return {
       "          ::::.    ':::::     ::::'          ",
       "          ':::::    ':::::.  ::::'           ",
@@ -23,18 +22,6 @@ local function default_header()
       "         .::::      ::::      '::::.         ",
       "                                             ",
      }
-    else
-      return {
-"       .--.  ",
-"      |o_o | ",
-"      |:_/ | ",
-"     //    |   ",
-"    (|     | )  ",
-"   /'   _/`|   ",
-"   |__)=(___/ ",
-
-        }
-    end
 end
 
 return {
